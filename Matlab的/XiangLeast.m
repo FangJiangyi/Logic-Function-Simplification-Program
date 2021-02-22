@@ -13,6 +13,7 @@ for j=1:n
 end
 temp=find(count1n==1);
 [temp,~]=find(table(:,temp)==1);
+temp=unique(temp);
 [~,columns]=find(table(temp,:)==1);
 temp=temp.';
 table(temp,:)=[];
