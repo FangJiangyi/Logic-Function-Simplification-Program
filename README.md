@@ -6,5 +6,5 @@ Different languages to realise simplification of logic function.
 该路径下主要内容是matlab写成的程序和程序说明以及使用方法。**to be continued**
 ## /illustration
 该路径下主要内容是展示逻辑函数化简的基本知识和程序框架与关键步骤。**to be continued**
-## /thought
+## /thoughts
 该路径下主要是分享了一些自己写程序中的心得和体会。**to be continued**
