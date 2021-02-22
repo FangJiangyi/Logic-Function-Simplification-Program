@@ -8,3 +8,5 @@ Different languages to realise simplification of logic function.
 该路径下主要内容是展示逻辑函数化简的基本知识和程序框架与关键步骤。**to be continued**
 ## /thoughts
 该路径下主要是分享了一些自己写程序中的心得和体会。**to be continued**
+欢迎大家随便蹂躏，出bug了发邮件，请附上截图（bug效果图）+你的改动
+邮箱地址在\.about\README.md中
